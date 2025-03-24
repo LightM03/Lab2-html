@@ -1,0 +1,1 @@
+In this project, we delve more into htmland explore how to apply different html semantics when creating a website.
